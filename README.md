@@ -1,4 +1,4 @@
-Danish Version
+### Danish Version
 
 
 ### Credits
@@ -39,10 +39,10 @@ Mig (ToXicGlo) Kodede kun Skriptet om til vRP fra ESX
 ### Start serveren og værsgo :)
 
 
- English Version
+### English Version
 
 
-#Credits
+### Credits
 Original Script maker is Loffes / https://forum.fivem.net/u/loffes/summary
 
 I (ToXicGlo) Only coded the script to vRP from ESX.  
